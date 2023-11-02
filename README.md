@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add Neural Magic Docs integrations page (#7234)
